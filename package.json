@@ -1,0 +1,20 @@
+{
+  "name": "mongoose_populate",
+  "version": "1.0.0",
+  "description": "This is a guideline on how to use the mongoose populate method",
+  "main": "server.js",
+  "repository": "https://github.com/chibuike07/mongoose_populate.git",
+  "author": "Princewill Chime",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
